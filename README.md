@@ -1,13 +1,38 @@
-# Kunal Nogia — Portfolio
+# Kunal Nogia — Data Analyst Portfolio
 
-A responsive Data Analyst portfolio built with plain HTML, CSS and JavaScript.
+Personal portfolio website showcasing my Data Analytics and Business Intelligence projects, technical skills, internships, education, and resume.
 
-## Run locally
-Open `index.html` in a browser.
+## About
 
-## Publish
-Upload these files to a GitHub repository and enable GitHub Pages, or import the folder into Vercel.
+I am a Computer Science undergraduate focused on Data Analytics and Business Intelligence.
 
-## Before publishing
-Replace the placeholder GitHub and LinkedIn URLs in `index.html` with your actual profiles.
-Replace the three project GitHub links with the individual project repositories when ready.
+## Skills
+
+- Power BI
+- SQL
+- Excel
+- DAX
+- Power Query
+- Java
+- HTML & CSS
+- Git & GitHub
+
+## Projects
+
+- PhonePe Transaction Analytics Dashboard
+- Coffee Shop Sales Dashboard
+- Retail Sales Performance Dashboard
+
+## Technologies
+
+HTML, CSS, JavaScript
+
+## Portfolio
+
+Live portfolio coming soon.
+
+## Contact
+
+- GitHub
+- LinkedIn
+- Email
